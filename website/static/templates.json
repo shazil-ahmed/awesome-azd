@@ -11,13 +11,14 @@
         "postgresql",
         "ai",
         "document-intelligence",
-        "semantic-search"
+        "semantic-search",
+        "community",
+        "new"
     ],
     "languages": [
         "python",
         "javascript",
-        "typescript",
-        "bicep"
+        "typescript"
     ],
     "services": [
         "azure-postgresql",
