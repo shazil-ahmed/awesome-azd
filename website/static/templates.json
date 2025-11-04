@@ -1,17 +1,39 @@
 [
   {
-    "title": "Starter - Bicep",
-    "description": "A starter template with Bicep as infrastructure provider",
-    "preview": "./templates/images/test.png",
-    "authorUrl": "https://github.com/Azure/azure-dev",
-    "author": "Azure Dev",
-    "source": "https://github.com/Azure-Samples/azd-starter-bicep",
+    "title": "PostgreSQL Invoice Pilot with Azure AI",
+    "description": "A comprehensive solution combining PostgreSQL with Azure AI services for document intelligence, featuring invoice/SOW validation, semantic search, and AI-powered analytics with a React frontend.",
+    "preview": "./templates/images/postgresql-invoice-pilot-azure-ai.png",
+    "authorUrl": "https://github.com/EmumbaOrg",
+    "author": "Emumba",
+    "source": "Add-link-of-repo-here",
     "tags": [
-      "bicep",
-      "msft"
+        "bicep",
+        "postgresql",
+        "ai",
+        "document-intelligence",
+        "semantic-search",
+        "community",
+        "new"
     ],
-    "id": "99c380c4-915a-41b2-9517-45ed63d7ef7f"
+    "languages": [
+        "python",
+        "javascript",
+        "typescript"
+    ],
+    "services": [
+        "azure-postgresql",
+        "azure-openai",
+        "azure-cognitive-services",
+        "azure-document-intelligence",
+        "azure-container-apps",
+        "azure-storage",
+        "azure-app-configuration",
+        "azure-key-vault",
+        "azure-container-registry"
+    ],
+    "id":"a5b3afc7-9d63-4846-8b9e-7fbd8b351b9a"
   },
+  
   {
     "title": "Starter - Terraform",
     "description": "A starter template with Terraform as infrastructure provider",
